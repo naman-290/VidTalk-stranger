@@ -16,4 +16,4 @@ npm start
 ```
 
 ##VidTalk
-![VidTalk](img/WebRTC-meet-the-strangers.jpg)
+![VidTalk](img/VidTalk-Home.png)
