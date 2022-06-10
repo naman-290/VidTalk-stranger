@@ -2,7 +2,7 @@
 
 Link - http://localhost:3000
 
-Link - https://webrtcmeetthestranger.herokuapp.com/
+Link - https://vidtalk-talk-stranger-8391.herokuapp.com/
 
 
 ## How to use 
