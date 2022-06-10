@@ -15,5 +15,5 @@ npm install
 npm start
 ```
 
-##VidTalk
+## VidTalk
 ![VidTalk](img/VidTalk-Home.png)
